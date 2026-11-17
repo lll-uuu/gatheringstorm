@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>A Gathering Storm</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+  <!-- Pinned CDNs; provide globals for THREE / OrbitControls / VANTA -->
+  <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/examples/js/controls/OrbitControls.js"></script>
+  <!-- FOG -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.24/dist/vanta.fog.min.js"></script> -->
+  <!-- CLOUDS -->
+<script src="https://cdn.jsdelivr.net/npm/vanta@0.5.24/dist/vanta.clouds.min.js"></script>
+
+</head>
+<body>
+  <div id="bg" aria-hidden="true"></div>
+  <div id="app"></div>
+  <div id="veil" aria-hidden="true"></div>
+  <div id="tests" class="tests">Tests: (pending)</div>
+  <div id="err" class="errorBox" style="display:none"></div>
+
+  <!-- ES modules that rely on the global THREE/VANTA -->
+  <script type="module" src="./js/app/boot.js"></script>
+</body>
+</html>

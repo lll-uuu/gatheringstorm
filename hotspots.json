@@ -1,0 +1,286 @@
+[
+  {
+    "id": "video-yt1",
+    "title": "Server Room Ambience: Relax to the White Noise from our Data Center",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=yPvxfwssfUg",
+    "size": 1.2,
+    "category": "media"
+  },
+  {
+    "id": "audio-sc-1",
+    "title": "405.5 Server Room Access _ Mac Quayle",
+    "type": "audio",
+    "src": "https://soundcloud.com/macquayle-music/405-5-server-room-access?si=4924fb99c0844d0a9650725707fb89e2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+    "size": 1.0,
+    "category": "media"
+  },
+  {
+    "id": "text-1",
+    "title": "A Gathering Storm",
+    "type": "text",
+    "src": "assets/gathering-storm.html",
+    "size": 1.5,
+    "category": "writing"
+  },
+  {
+    "id": "text-2",
+    "title": "Ogum gives the secret of iron to humanity",
+    "type": "text",
+    "src": "assets/ogum-iron.html",
+    "size": 2.0,
+    "category": "writing"
+  },
+  {
+    "id": "text-3",
+    "title": "Ogum creates the forge",
+    "type": "text",
+    "src": "assets/ogum-forge.html",
+    "size": 2.5,
+    "category": "writing"
+  },
+  {
+    "id": "text-4",
+    "title": "The Regime of the Cloud",
+    "type": "text",
+    "src": "assets/regime-of-the-cloud.html",
+    "size": 4.0,
+    "category": "writing"
+  },
+  {
+    "id": "text-5",
+    "title": "The Cloud as Messenger",
+    "type": "text",
+    "src": "assets/cloud-messenger.html",
+    "size": 4.0,
+    "category": "writing"
+  },
+  {
+    "id": "text-6",
+    "title": "Project Map",
+    "type": "text",
+    "src": "assets/project-map.html",
+    "size": 4.0,
+    "category": "research"
+  },
+  {
+    "id": "text-7",
+    "title": "Earth, Water, Air: The Cloud and the Elements",
+    "type": "text",
+    "src": "assets/cloud-elements.html",
+    "size": 4.0,
+    "category": "writing"
+  },
+  {
+    "id": "spellbreak",
+    "title": "Spellbreak Training",
+    "type": "text",
+    "src": "assets/spellbreak.html",
+    "size": 3.0,
+    "category": "research"
+  },
+  {
+    "id": "link-2",
+    "title": "How Brazil's innovative 'Pix' payment system is angering Trump and Zuckerberg",
+    "type": "link",
+    "url": "https://www.france24.com/en/americas/20250731-how-brazil-innovative-pix-payment-system-is-angering-trump-zuckerbergg",
+    "size": 1.0,
+    "category": "news"
+  },
+  {
+    "id": "link-3",
+    "title": "Portugal looks to rule the waves again (thanks to undersea data)",
+    "type": "link",
+    "url": "https://www.politico.eu/article/portugal-plugs-in-submarine-internet-cable/",
+    "size": 1.2,
+    "category": "news"
+  },
+  {
+    "id": "link-4",
+    "title": "Sensitive government data now exclusively stored in sovereign cloud (PT)",
+    "type": "link",
+    "url": "https://telesintese.com.br/dados-sensiveis-de-governo-agora-so-podem-ficar-em-nuvem-soberana/",
+    "size": 1.7,
+    "category": "news"
+  },
+  {
+    "id": "link-5",
+    "title": "Brazilian government agencies, Serpro, and Dataprev launch cloud-based government services for federal agencies. (PT)",
+    "type": "link",
+    "url": "https://www.gov.br/governodigital/pt-br/noticias/gestao-serpro-e-dataprev-lancam-servicos-de-nuvem-de-governo-para-orgaos-federais",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "link-6",
+    "title": "How data centers reiterate a digital colonial logic in Brazil (PT)",
+    "type": "link",
+    "url": "https://www.intercept.com.br/2025/07/25/como-data-centers-repetem-a-logica-colonial-digital-no-brasil/",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "link-7",
+    "title": "Indigenous Anacé Nation protest against TikTok data center in Ceará and demand the suspension of environmental license (PT)",
+    "type": "link",
+    "url": "https://www.intercept.com.br/2025/08/04/indigenas-anace-protestam-data-center-tiktok-ceara/",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "link-8",
+    "title": "From destruction to speculation: Eldorado do Sul opens its doors to a billion-dollar data center project that hides its impacts and ignores the population (PT)",
+    "type": "link",
+    "url": "https://www.intercept.com.br/2025/06/23/eldorado-do-sul-abre-portas-para-projeto-bilionario-de-data-center/?utm_source=google&utm_medium=cpc&utm_campaign=pmax_newsletter&gad_source=1&gad_campaignid=22545513018&gbraid=0AAAAA-GeiJdhL8xoDFHCNT-o1HkuRnwTn&gclid=Cj0KCQjwn8XFBhCxARIsAMyH8Buyjq9pDBQ0sGuFSrNJe0QsL3WouXBLz70DRzzWO7b-iThzix7c4IYaAshKEALw_wcB",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "link-9",
+    "title": "Brazil Has a New Digital Spending Habit. Now It's a Trump Target.",
+    "type": "link",
+    "url": "https://archive.ph/8MQTq",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "link-10",
+    "title": "Niobium’s silent impact in Brazil.",
+    "type": "link",
+    "url": "https://dialogue.earth/en/pollution/25588-niobiums-silent-impact-in-brazil/",
+    "size": 1.5,
+    "category": "news"
+  },
+  {
+    "id": "reading-list",
+    "title": "Reading list",
+    "type": "text",
+    "src": "assets/reading-list.html",
+    "size": 3.0,
+    "category": "reading"
+  },
+  {
+    "id": "araxa",
+    "title": "Araxá: CBMM's own guide to the world's largest niobium mine (company source)",
+    "type": "link",
+    "url": "https://cbmm.com/assets/infographic/en/index.html",
+    "excerpt": "The mining company's illustrated tour of the Barreiro mine in Araxá, Minas Gerais, home to the largest known reserves of pyrochlore, the ore that holds niobium.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "belmonte",
+    "title": "Rare mineral puts Bahia on the map of the global energy transition (PT)",
+    "type": "link",
+    "url": "https://atarde.com.br/economia/mineral-raro-coloca-bahia-no-mapa-da-transicao-energetica-global-1308847",
+    "excerpt": "A Tarde on the unusually pure silica sand of Belmonte, Bahia, and a planned processing plant tied to solar glass.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "rio-ai-city",
+    "title": "Rio announces \"Rio AI City\", billed as Latin America's largest data center hub",
+    "type": "link",
+    "url": "https://en.prefeitura.rio/noticias/rio-anuncia-o-projeto-rio-ai-city-o-maior-hub-de-data-centers-da-america-latina-e-um-dos-dez-maiores-do-mundo/",
+    "excerpt": "The City of Rio's own announcement of a data center campus in the Olympic Park, launched at Web Summit Rio 2025.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "pecem",
+    "title": "Beyond TikTok: what is known about Ceará's new R$350 billion data center (PT)",
+    "type": "link",
+    "url": "https://diariodonordeste.verdesmares.com.br/negocios/alem-do-tiktok-o-que-se-sabe-sobre-o-novo-data-center-de-r-350-bilhoes-do-ceara-1.3776034",
+    "excerpt": "Diário do Nordeste on a second hyperscale data center planned near the Port of Pecém, next to the ByteDance project.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "boat-strikes",
+    "title": "US conducts 20th strike on alleged drug boat in the Caribbean",
+    "type": "link",
+    "url": "https://www.cbsnews.com/amp/news/us-20th-strike-alleged-drug-boat-killing-4-people-caribbean",
+    "excerpt": "CBS News on the continuing US strikes on boats off Venezuela, and the UN human rights chief's call to investigate their legality.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "us-buildup",
+    "title": "What military force has the US positioned off Venezuela's coast?",
+    "type": "link",
+    "url": "https://www.aljazeera.com/news/2025/10/25/what-military-force-has-the-us-positioned-off-venezuelas-coast",
+    "excerpt": "Al Jazeera maps the largest US military buildup in Latin America in decades.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "pix-301",
+    "title": "The latest US squeeze on Brazil jeopardizes its financial autonomy",
+    "type": "link",
+    "url": "https://www.piie.com/blogs/realtime-economics/2026/latest-us-squeeze-brazil-jeopardizes-its-financial-autonomy",
+    "excerpt": "PIIE on the Section 301 case that treats PIX, Brazil's public instant payment system, as a US trade grievance.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "moraes",
+    "title": "US sanctions Brazil Supreme Court justice overseeing Bolsonaro trial",
+    "type": "link",
+    "url": "https://www.courthousenews.com/us-sanctions-brazil-supreme-court-justice-overseeing-bolsonaro-trial/",
+    "excerpt": "Courthouse News on the Global Magnitsky sanctions against Justice Alexandre de Moraes.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "trump-bolsonaro",
+    "title": "Trump sets 50% tariff rate for Brazil, blasting treatment of former far-right president",
+    "type": "link",
+    "url": "https://www.npr.org/2025/07/09/nx-s1-5462903/trump-brazil-tariff-bolsonaro",
+    "excerpt": "NPR on the tariff letter that tied US trade policy directly to the trial of Jair Bolsonaro.",
+    "size": 1.4,
+    "category": "news"
+  },
+  {
+    "id": "cash-out",
+    "title": "Cash Out",
+    "type": "text",
+    "src": "assets/cash-out.html",
+    "size": 2.6,
+    "category": "research"
+  },
+  {
+    "id": "counter-cloud-plan",
+    "title": "Counter Cloud Action Plan (TITiPI)",
+    "type": "link",
+    "url": "https://titipi.org/pub/Counter_Cloud_Action_Plan.pdf",
+    "excerpt": "TITiPI's plan for organizations that want to step away from the cloud. Spellbreak training follows from it.",
+    "size": 2.0,
+    "category": "research"
+  },
+  {
+    "id": "counter-cloud-faq",
+    "title": "Trans*Feminist Counter Cloud Action FAQ (TITiPI)",
+    "type": "link",
+    "url": "https://titipi.org/pub/FAQ.pdf",
+    "excerpt": "Questions and answers on what the cloud is, who it serves, and how to act against it.",
+    "size": 1.8,
+    "category": "research"
+  },
+  {
+    "id": "no-google",
+    "title": "The No Google navigation experiment",
+    "type": "text",
+    "src": "assets/no-google.html",
+    "size": 2.0,
+    "category": "writing"
+  },
+  {
+    "id": "migrazine",
+    "title": "Imagining Spaces for a Decolonisation of Technology (migrazine)",
+    "type": "link",
+    "url": "https://migrazine.at/artikel/imagining-spaces-decolonisation-technology",
+    "excerpt": "Interview with Luiza Prado and Rebecca Ryakitimbo, moderated by Lia Kastiyo-Spinósa, from the webinar of 26 September 2025 (migrazine and maiz).",
+    "size": 1.8,
+    "category": "research"
+  }
+]

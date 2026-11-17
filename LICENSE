@@ -61,4 +61,4 @@ owners' terms:
 - Linked news articles, videos and audio, which are hosted elsewhere
 - The typefaces Velvelyne and FT88, under their own licenses
   (see assets/fonts/)
-- Three.js and Vanta.js, loaded from a CDN under their MIT licenses
+- Three.js and Vanta.js, bundled in js/vendor/ under their MIT licenses

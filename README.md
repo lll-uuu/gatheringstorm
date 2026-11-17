@@ -44,6 +44,7 @@ Developed in 2025 as part of the Community Research track at [TITiPI, the Instit
 - Plain HTML, CSS and JavaScript (ES modules), with no build step
 - [Three.js](https://threejs.org/) r134 for the stars
 - [Vanta.js](https://www.vantajs.com/) for the clouds
+- Both libraries are bundled in `js/vendor/`, so the site needs no outside CDN
 - Typefaces: Velvelyne and FT88
 
 The code was written by hand. AI tools were used to catch errors.

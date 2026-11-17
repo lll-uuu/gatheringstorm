@@ -1,11 +1,13 @@
 // Extract urls from hotspots.json
 export function collectAssets(hotspots) {
+  // Only preload files that live on this site (images, audio, video).
+  // External links, YouTube and SoundCloud pages can't be preloaded by the browser anyway,
+  // and waiting on them stalled the whole page whenever one of those sites was slow.
   const urls = new Set();
+  const local = u => u && !/^https?:\/\//i.test(u);
   for (const h of hotspots) {
-    if (h.thumb) urls.add(h.thumb);
-    if (h.type === 'image' && h.src) urls.add(h.src);
-    if ((h.type === 'audio' || h.type === 'video') && h.src) urls.add(h.src);
-    if (h.type === 'link' && h.url) urls.add(h.url); 
+    if (local(h.thumb)) urls.add(h.thumb);
+    if ((h.type === 'image' || h.type === 'audio' || h.type === 'video') && local(h.src)) urls.add(h.src);
   }
   return [...urls];
 }

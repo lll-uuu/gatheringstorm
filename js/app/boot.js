@@ -1,7 +1,8 @@
 import { loadFonts } from './fonts.js';
 
 // ... inside the main async IIFE, before sceneSetup(...)
-await loadFonts();
+// Never let font loading hold up the page for more than 2 seconds
+await Promise.race([loadFonts(), new Promise(r => setTimeout(r, 2000))]);
 
 // js/app/boot.js
 //import { initFog }          from './fog.js';
@@ -66,9 +67,13 @@ function report(msg){
       const assets = collectAssets(hotspotsData);
       if (assets.length) {
         testsEl && (testsEl.textContent = `Loading: 0/${assets.length}`);
-        await preloadAssets(assets, (done, total) => {
-          testsEl && (testsEl.textContent = `Loading: ${done}/${total}`);
-        });
+        // Wait at most 3 seconds for preloading, then start anyway
+        await Promise.race([
+          preloadAssets(assets, (done, total) => {
+            testsEl && (testsEl.textContent = `Loading: ${done}/${total}`);
+          }),
+          new Promise(r => setTimeout(r, 3000))
+        ]);
       }
       testsEl && (testsEl.textContent = 'Loaded');
     } catch (preErr) {
